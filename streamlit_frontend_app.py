@@ -6,7 +6,7 @@ Enhanced Streamlit Frontend - FINAL VERSION
 ✅ Improved prompts for publication-ready content
 ✅ Better error handling and user feedback
 
-Run: streamlit run enhanced_streamlit_final.py
+Run: streamlit run streamlit_frontend_app.py
 """
 
 import streamlit as st
@@ -1112,7 +1112,7 @@ SEO: Optimize for "urban gardening", "apartment gardening", "sustainable living"
     <div style='text-align: center; padding: 1rem;'>
         <p style='font-size: 1.1rem; font-weight: 600;'>🤖 AI Content Generator Pro</p>
         <p style='font-size: 0.9rem;'>Multi-Agent System | Built with AutoGen, Flask & Streamlit</p>
-        <p style='font-size: 0.85rem;'>© 2024 RTCFR System</p>
+        <p style='font-size: 0.85rem;'>© 2025 Agentic AI System</p>
     </div>
     """, unsafe_allow_html=True)
 
