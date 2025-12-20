@@ -1,4 +1,4 @@
-# Quick Start Guide - RTCFR Multi-Agent System
+# Quick Start Guide - Multi-Agent System
 
 ## ⚡ 5-Minute Setup
 

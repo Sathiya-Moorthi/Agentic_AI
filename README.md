@@ -1,4 +1,4 @@
-# RTCFR Multi-Agent Content Generation System
+# Multi-Agent Content Generation System
 
 A powerful multi-agent system for generating publication-ready content with real-time research, SEO optimization, and strict quality control.
 
